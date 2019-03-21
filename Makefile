@@ -1,2 +1,2 @@
-mani.cpp : main
-	g++ -Wall main.cpp -lGL -lGLU -lGLEW -lglut -o main
+main.tst : main.cpp
+	g++ -Wall main.cpp -lGL -lGLU -lGLEW -lglut -o main.tst
